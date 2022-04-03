@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 55px;
+}
+.size{
+    font-size: 35px;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 900;
+    margin: auto;
+}
+#welcome{
+    background-image: linear-gradient(to bottom right, rgb(237, 219, 245), rgb(176, 115, 193), rgb(243, 243, 190), rgb(247, 247, 118));
+}
+#where{
+    background-color:rgb(205, 228, 237);
+}
+#contact{
+    background-color:rgb(249, 224, 237);
+}
+.links{
+    color:rgb(80, 20, 220);
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
